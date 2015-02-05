@@ -1,1 +1,1 @@
-# TCP-incast-generator
+This code was developed as part of the research on TCP Incast at Stanford University.
